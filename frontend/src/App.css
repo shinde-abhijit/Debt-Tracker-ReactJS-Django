@@ -1,0 +1,31 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.card {
+  padding: 5px;
+}
+
+body.dark-mode {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  font-family: 'Noto Sans';
+}
+
+body.normal-mode {
+  background-color: #e5e5e5;
+  font-family: 'Poppins';
+  color: #ff4100;
+}
+
+body.normal-mode .text-primary{
+  background-color: #e5e5e5;
+  font-family: 'Poppins';
+  color: #ff4100 !important;
+}
+
+
+
+
+
