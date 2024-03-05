@@ -2,15 +2,15 @@
 Debt tracker using ReactJS and Django with database connectivity, darkmode, search filter, CRUD
 
 # To run Python <br>
-## python manage.py makemigrations <br>
-## python manage.py migrate <br>
-## python manage.py createsuperuser <br>
+### python manage.py makemigrations <br>
+### python manage.py migrate <br>
+### python manage.py createsuperuser <br>
 
-#To run React Vite
-## locate to frontend - cd frontend <br>
-## npm install - to install necessary packages
-## npm run dev
-
+# To run React Vite
+### locate to frontend - cd frontend <br>
+### npm install - to install necessary packages
+### npm run dev
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 annotated-types==0.6.0 <br
 anyio==4.3.0 <br>
 asgiref==3.7.2 <br>
